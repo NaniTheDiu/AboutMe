@@ -17,3 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NaniTheDiu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🐱‍👤 Recent Projects:
+![][https://github.com/NaniTheDiu/CSP451-Azure-Project/tree/main](https://github.com/NaniTheDiu/CSP451-Azure-Project/tree/main)
